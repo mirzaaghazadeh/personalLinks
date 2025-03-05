@@ -2,7 +2,7 @@
 
 A modern, animated portfolio card built with React, TypeScript, and Tailwind CSS. Features a beautiful glass-morphism design with smooth animations and social media integrations.
 
-![Preview on my own website](https://mirza.plus/)
+[Preview on my own website](https://mirza.plus/)
 
 ## ✨ Features
 
